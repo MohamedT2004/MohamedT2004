@@ -61,26 +61,16 @@ I'm not chasing titles or shortcuts. I'm chasing growth, meaningful experiences,
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MohamedT2004&show_icons=true&theme=github_dark&hide_border=true"
-    height="170"
-    alt="Mohamed's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedT2004&layout=compact&theme=github_dark&hide_border=true"
-    height="170"
-    alt="Mohamed's Top Languages"
-  />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohamedT2004&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedT2004&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=MohamedT2004&theme=github-dark&hide_border=true"
-    alt="Mohamed's GitHub Streak"
-  />
+<img src="https://streak-stats.demolab.com?user=MohamedT2004&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
