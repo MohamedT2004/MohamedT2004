@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Mohamed Tamer Banner" width="100%" />
+</p>
+
+<br>
 <h1 align="center">Hi, I'm Mohamed Tamer 👋</h1>
 
 <p align="center">
