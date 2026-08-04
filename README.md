@@ -61,20 +61,6 @@ I'm not chasing titles or shortcuts. I'm chasing growth, meaningful experiences,
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohamedT2004&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedT2004&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=MohamedT2004&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## A Personal Philosophy
 
 > **Success isn't about knowing everything. It's about never stopping the journey of learning.**
