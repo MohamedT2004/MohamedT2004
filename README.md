@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Mohamed Tamer 👋</h1>
 
 <p align="center">
-  Software Engineering Student @ Ain Shams University 🇪🇬
+  AI Engineering Student @ Ain Shams University 🇪🇬
 </p>
 
 <p align="center">
